@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For extrom
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+extrom	KEYWORD1
+rom	KEYWORD1
+rom0	KEYWORD1
+rom1	KEYWORD1
+rom2	KEYWORD1
+rom3	KEYWORD1
+rom4	KEYWORD1
+rom5	KEYWORD1
+rom6	KEYWORD1
+rom7	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+readbyte	KEYWORD2
+writebyte	KEYWORD2
+format	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
