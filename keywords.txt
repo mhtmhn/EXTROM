@@ -6,6 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 extrom	KEYWORD1
+extrom_anytype	KEYWORD1
 rom	KEYWORD1
 rom0	KEYWORD1
 rom1	KEYWORD1
@@ -21,7 +22,8 @@ rom7	KEYWORD1
 #######################################
 readbyte	KEYWORD2
 writebyte	KEYWORD2
-format	KEYWORD2
+readtype	KEYWORD2
+writetype	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
